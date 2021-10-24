@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pic16f84_test-rescue)(type Legacy)(uri ${KIPRJMOD}/pic16f84_test-rescue.lib)(options "")(descr ""))
+)
